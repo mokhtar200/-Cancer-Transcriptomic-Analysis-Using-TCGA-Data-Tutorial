@@ -26,11 +26,7 @@ TCGA_Cancer_Transcriptomics/
 │   └── raw/
 │   └── processed/
 ├── scripts/
-│   ├── 01_data_download.R
-│   ├── 02_preprocessing.R
-│   ├── 03_DEG_analysis.R
-│   ├── 04_enrichment_analysis.R
-│   └── 05_visualization.R
+│   ├── Analysis_Script.R
 ├── results/
 ├── README.md
 └── .gitignore
